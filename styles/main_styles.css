@@ -657,7 +657,8 @@ section
 .home_subtitle
 {
 	font-size: 18px;
-	color: #FFFFFF;
+	color: yellow;
+    background: brown;
 }
 .home_title
 {
